@@ -1,0 +1,23 @@
+{
+  "email": {
+    "base": "serban_zitec+",
+    "last_index": 23,
+    "next_index": 24,
+    "site": "@test.com"
+  },
+  "first_name": "Serban",
+  "last_name": "Ghita",
+  "password": "SGZitec@2022!",
+  "address": "Test Street no 21",
+  "city": "Test City",
+  "zip_code": "12345",
+  "mobile_phone": "9123456780",
+  "address_alias": "Test Address",
+  "new_address": {
+    "address": "Test New Street no 21",
+    "city": "Test New City",
+    "zip_code": "23456",
+    "mobile_phone": "9123456780",
+    "address_alias": "Test New Address"
+  }
+}
